@@ -1,3 +1,5 @@
 # Programming-Solutions
-Basic<br>
-While
+<ol>
+  <li>Basic</li>
+  <li>While</li>
+</ol>
