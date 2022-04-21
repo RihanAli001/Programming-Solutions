@@ -1,3 +1,3 @@
 # Programming-Solutions
-Basic<br>
-While
+1. Basic<br>
+2. While
