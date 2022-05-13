@@ -1,3 +1,4 @@
+// Write a cpp program to implement binary search.
 #include<iostream>
 using namespace std;
 
