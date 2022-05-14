@@ -1,0 +1,7 @@
+data <- c("East","West","East","North","North","East","West","West","West","East","North")
+cat("Data : ",data)
+cat("\nFactor Or Not : ",is.factor(data))
+cat("\n\nAfter Factor :")
+factor_data <- factor(data)
+print(factor_data)
+cat("Factor Or Not : ",is.factor(factor_data))

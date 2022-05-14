@@ -1,0 +1,5 @@
+x <- c(1.4, 5.66, 7.13, 9.21)
+cat("Max    :", max(x))
+cat("\nMin    :", min(x))
+cat("\nMean   :", mean(x))
+cat("\nMedian :", median(x))

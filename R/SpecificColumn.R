@@ -1,0 +1,8 @@
+number=c(100:102)
+str=c("One","Two","Three")
+binary=c(001,010,011)
+df = data.frame(number,str,binary)
+print(df)
+cat("\nColumn Number : ",df$number)
+cat("\nColumn String : ",df$str)
+cat("\nColumn Binary : ",df$binary)
