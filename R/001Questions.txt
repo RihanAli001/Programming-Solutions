@@ -1,40 +1,40 @@
-1 ""
-1, ""
-[1, ""],
-[1, ""],
-[1, ""],
-[1, ""],
-[1, ""],
-[0, "WAP to create a vector and perform task on that in R:"],
-[2, "Combine numerical values, numerical values in a sequence."],
-[2, "Length of vector, sort a vector, access a particular index value in the vector."],
-[0, "WAP to create a list and perform following task on that in R:"],
-[2, "Access lists, change item value, list length, check if item exists."],
-[2, "Add list items, remove list items."],
-[2, "Range of indexes, loop through a list, join two lists."],
-[0, "WAP to create a 4X4 matrix and perform following task on that in R:"],
-[2, "Access matrix items, access more than one row and for access more than one column."],
-[2, "Add rows and columns, remove rows and columns."],
-[2, "Check if an item exists, amount of rows and columns, matrix length."],
-[2, "Loop through a matrix, combine two matrices."],
-[0, "WAP to create an array and perform following task on that in R:"],
-[2, "Access array items, check if an item exists."],
-[2, "Amount of rows and columns, array length, loop through an array."],
-[0, "WAP to create a data frame and perform following task on that in R:"],
-[2, "Summarize the data, access items, add rows, add columns."],
-[2, "Remove rows and columns, amount of rows and columns."],
-[2, "Data frame length, combining data frames."],
-[1, "WAP to calculate the summary of any dataset in R."],
-[1, "WAP to create factors and perform all possible tasks on factors in R."],
-[1, "WAP to calculate statistical measures (mean, median, min and max) in R."],
-[1, "WAP to import a data set from the internet directly or through a file in R."],
-[1, "WAP to find the outliers in R."],
-[1, "WAP to implement data visualization using Histogram and Box plot in R."],
-[1, "WAP to implement the data manipulation with dplyr package in R."],
-[1, "WAP to implement the data visualization with ggplot2."],
-[1, "WAP to develop an application to perform classification using a decision tree in R."],
-[1, "WAP to perform classification using KNN in R."],
-[1, "WAP to perform clustering using K-means in R."],
-[1, "WAP to fill missing values in a dataset using mean in R."],
-[1, "WAP to extract association rules using Apriori Algorithm in R."],
-[1, "WAP to develop an application to design star schemas from fact tables in R."]];
+1 "
+1 "
+1 "
+1 "
+1 "
+1 "
+1 "
+0 WAP to create a vector and perform task on that in R:
+2 Combine numerical values, numerical values in a sequence.
+2 Length of vector, sort a vector, access a particular index value in the vector.
+0 WAP to create a list and perform following task on that in R:
+2 Access lists, change item value, list length, check if item exists.
+2 Add list items, remove list items.
+2 Range of indexes, loop through a list, join two lists.
+0 WAP to create a 4X4 matrix and perform following task on that in R:
+2 Access matrix items, access more than one row and for access more than one column.
+2 Add rows and columns, remove rows and columns.
+2 Check if an item exists, amount of rows and columns, matrix length.
+2 Loop through a matrix, combine two matrices.
+0 WAP to create an array and perform following task on that in R:
+2 Access array items, check if an item exists.
+2 Amount of rows and columns, array length, loop through an array.
+0 WAP to create a data frame and perform following task on that in R:
+2 Summarize the data, access items, add rows, add columns.
+2 Remove rows and columns, amount of rows and columns.
+2 Data frame length, combining data frames.
+1 WAP to calculate the summary of any dataset in R.
+1 WAP to create factors and perform all possible tasks on factors in R.
+1 WAP to calculate statistical measures (mean, median, min and max) in R.
+1 WAP to import a data set from the internet directly or through a file in R.
+1 WAP to find the outliers in R.
+1 WAP to implement data visualization using Histogram and Box plot in R.
+1 WAP to implement the data manipulation with dplyr package in R.
+1 WAP to implement the data visualization with ggplot2.
+1 WAP to develop an application to perform classification using a decision tree in R.
+1 WAP to perform classification using KNN in R.
+1 WAP to perform clustering using K-means in R.
+1 WAP to fill missing values in a dataset using mean in R.
+1 WAP to extract association rules using Apriori Algorithm in R.
+1 WAP to develop an application to design star schemas from fact tables in R.
