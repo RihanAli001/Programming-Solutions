@@ -7,7 +7,7 @@
 1 | 7 | "
 0 | 8 | WAP to create a vector and perform task on that in R:
 2 | 8.1 | Combine numerical values, numerical values in a sequence.
-2 | 8.2 | 10 Length of vector, sort a vector, access a particular index value in the vector.
+2 | 8.2 | Length of vector, sort a vector, access a particular index value in the vector.
 0 | 9 | WAP to create a list and perform following task on that in R:
 2 | 9.1 | Access lists, change item value, list length, check if item exists.
 2 | 9.2 | Add list items, remove list items.
